@@ -1,0 +1,9 @@
+homework 2 
+definiciones: 
+ciclo for: basicamente los ciclos son una herramienta que se usan para poder ejecutar codigo determinadas veces, es decir, es una herramienta para ejecutar codigo cuantas veces queramos o hasta que lo necesitemos.
+
+&&: sirve para comparar dos expreciones o mas entre datos, de esta comparacion dependera un resultado si es true o false, sera true si solo ambas o todas las expresiones a comprar son true, si alguna es false el resultado arrojado será false.
+
+||: sirve para comparar dos expreciones o mas entre datos, de esta comparacion dependera un resultado si es true o false, sera true si una de las expresiones a comprar es verdadera, solo devolvera false si todas son falsas.
+
+!: este operador sirve para devolver el valor booleano opuesto de lo que le pasemos, tambien sirve para indicar que algo no es igual. 
